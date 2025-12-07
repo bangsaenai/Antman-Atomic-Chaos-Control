@@ -1,4 +1,21 @@
-numpy>=1.21.0
-scipy>=1.7.0
-pyserial>=3.5
-matplotlib>=3.4.0
+# 🌑 MOONDUST PROTOCOL: DEPENDENCY MANIFEST
+# ===========================================
+# Project: Antman-Atomic-Chaos-Control
+# Classification: God Mode / Research Grade
+# ===========================================
+
+# === 🧠 CORE PHYSICS ENGINE (Brain) ===
+numpy>=1.24.0      # Matrix operations for Koopman Operator & Lifted Space
+scipy>=1.10.0      # Advanced ODE solvers for Lorenz Attractor integration
+torch>=2.0.0       # (Optional) For Deep Koopman embedding & Neural Logic
+
+# === ⚡ NEURAL LINK INTERFACE (Synapse) ===
+pyserial>=3.5      # Low-latency Serial Bridge (Antman <-> Atomic Ant)
+
+# === 👁️ REAL-TIME VISUALIZATION (God Eye) ===
+matplotlib>=3.7.0  # High-speed Phase Portrait rendering
+colorama>=0.4.6    # CLI Aesthetics for system status & logging
+
+# === 🛠️ UTILITIES ===
+tqdm>=4.65.0       # Progress tracking for model training
+pandas>=2.0.0      # Data logging for telemetry analysis
