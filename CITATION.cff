@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this architecture or code in your research, please cite it as follows."
+authors:
+  - family-names: "Tanet"
+    given-names: "The Father"
+    affiliation: "Bangsaen AI Labs"
+title: "Democratizing Nonlinear Control: A Hierarchical Split-Brain Architecture for Hard Real-Time Chaos Synchronization on Low-Cost Silicon"
+version: 1.0.0-godspeed
+doi: 10.5281/zenodo.godspeed
+date-released: 2025-12-07
+url: "https://github.com/bangsaenai/Antman-Atomic-Chaos-Control"
+keywords:
+  - "chaos-theory"
+  - "lorenz-attractor"
+  - "nonlinear-control"
+  - "esp8266"
+  - "python-serial-bridge"
+  - "antman-atomic-paradigm"
+license: "MIT"
+abstract: "This project demonstrates the Antman-Atomic Paradigm: a hierarchical split-brain architecture that offloads complex nonlinear physics (Lorenz Attractor) to a Python Brain while executing hard real-time actuation on a low-cost ESP8266 Muscle via a high-speed serial bridge, achieving zero perceptible latency."
