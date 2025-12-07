@@ -71,3 +71,15 @@ If you are a builder (not a ghost), prove your worth:
 *Bangsaen AI Labs*
 
 #BangsaenAI #Godspeed #AntmanAtomic #ChaosTheory #ESP8266 #RealTime
+```
+@software{BangsaenAI_Antman_Atomic_2025,
+  author = {Tanet, The Father},
+  title = {{Democratizing Nonlinear Control: A Hierarchical Split-Brain Architecture for Hard Real-Time Chaos Synchronization on Low-Cost Silicon}},
+  year = {2025},
+  month = dec,
+  version = {1.0.0},
+  publisher = {Bangsaen AI Labs},
+  url = {https://github.com/bangsaenai/Antman-Atomic-Chaos-Control},
+  note = {The Antman-Atomic Paradigm: Breaking the latency barrier of commodity silicon}
+}
+```
