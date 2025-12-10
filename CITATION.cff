@@ -16,5 +16,5 @@ keywords:
   - "esp8266"
   - "python-serial-bridge"
   - "antman-atomic-paradigm"
-license: "MIT"
+license: GPL-3.0
 abstract: "This project demonstrates the Antman-Atomic Paradigm: a hierarchical split-brain architecture that offloads complex nonlinear physics (Lorenz Attractor) to a Python Brain while executing hard real-time actuation on a low-cost ESP8266 Muscle via a high-speed serial bridge, achieving zero perceptible latency."
